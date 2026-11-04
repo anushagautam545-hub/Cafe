@@ -2,5 +2,7 @@
   "name": "Lumière & Oak Cafe",
   "description": "Artisan coffee roastery and cozy neighborhood cafe featuring handcrafted seasonal brews, fresh pastries, table reservations, and warm ambient soundscapes.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
